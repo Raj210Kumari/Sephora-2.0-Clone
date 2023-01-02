@@ -1,8 +1,7 @@
 # Sephora.COM  (Clone)
 
-# zealous-fruit-8632  `Project Code`
+`Clone of Website :` [Sephora](https://sephora.nnnow.com/)
 
-# Robos oF Glossity `Team Name`
 
 ## About Project 
 <h2>
