@@ -1,6 +1,4 @@
-# Sephora.COM  (Clone)
-
-`Clone of Website :` [Sephora](https://sephora.nnnow.com/)
+# `Clone of Website :` [Sephora](https://sephora.nnnow.com/)
 
 
 ## About Project 
